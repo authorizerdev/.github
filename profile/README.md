@@ -9,7 +9,9 @@ All the [features](https://github.com/authorizerdev/authorizer#we-offer-the-foll
 [Deploy to Heroku](https://docs.authorizer.dev/deployment/heroku/) • [Deploy on Railway.app](https://docs.authorizer.dev/deployment/railway/) • [Deploy to Render](https://docs.authorizer.dev/deployment/render/) • [k8s](https://docs.authorizer.dev/deployment/kubernetes/) • [On your local](https://docs.authorizer.dev/deployment/binary/)
 
 ### 👩‍💻 Useful resource
-[Introduction](https://docs.authorizer.dev/) • [Video Introduction](https://www.youtube.com/watch?v=uQka5O2RwpU) • [GraphQL APIs](https://docs.authorizer.dev/core/graphql-api/) • [Javascript SDK](https://docs.authorizer.dev/authorizer-js/getting-started/) • [React SDK](https://docs.authorizer.dev/authorizer-react/getting-started/) 
+[Introduction](https://docs.authorizer.dev/) • [Video Introduction](https://www.youtube.com/watch?v=uQka5O2RwpU) • [GraphQL APIs](https://docs.authorizer.dev/core/graphql-api/) • [Javascript SDK](https://docs.authorizer.dev/authorizer-js/getting-started/) • [React SDK](https://docs.authorizer.dev/authorizer-react/getting-started/)
+
+[Documentation Home](https://docs.authorizer.dev/) • [Issue Tracker](https://github.com/authorizerdev/authorizer/issues) • [All Releases](https://github.com/authorizerdev/authorizer/releases)
 
 ### 🌈 Community
 [Join us on Discord](https://discord.com/invite/Zv2D5h6kkK) • [Ask us a question](https://github.com/authorizerdev/authorizer/issues)
