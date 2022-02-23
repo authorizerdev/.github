@@ -22,7 +22,7 @@ We would be delighted to have you join the effort. Please head over to [our cont
 #### Some contribution ideas
 * Most simple - show your love by spreading the word 🤗 .
 * We maintain a list of [good first issues](https://github.com/authorizerdev/authorizer/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are simple issues you can pick up whlle getting familiar with the codebase. 
-* We encourage you to try out [Authorizer](https://authorizer.dev/) in your pet project and let us know what you feel and perhaps report a bug. If you have used it enough, may be you want [leave a testiomonial](mailto:info@authorizer.dev) for us. 
+* We encourage you to try out [Authorizer](https://authorizer.dev/) in your pet project and let us know what you feel and perhaps report a bug. If you have used it enough, may be you want to [leave a testiomonial](mailto:info@authorizer.dev) for us. 
 * We strive for superior developer expirience (DX). We want to hear from you, about your developer expirience while using [Authorizer](https://authorizer.dev/). You can help us find the gaps in onboarding, documentation, API design, what not. No matter how trivial the issue, please report us. Chances are, many other developers might be facing it. Fixing that DX issue is priority for us.
 * Last but not least, please tell us what you like about [Authorizer](https://authorizer.dev/). It helps to know what parts we are getting right. 
 
