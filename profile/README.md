@@ -28,6 +28,9 @@ We would be delighted to have you join the effort. Please head over to [our cont
 
 **Important : Since we are an open source project, community feedback is our primary source to know if we are on right track or not. We always look forward for [your feedback](https://github.com/authorizerdev/authorizer/issues).**
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=authorizerdev/authorizer&type=Date)](https://star-history.com/#authorizerdev/authorizer&Date)
 
 <!--
 
