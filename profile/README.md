@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-[**Authorizer**](https://authorizer.dev/) is an open-source authentication and authorization solution for your applications. Bring your database and have complete control over the user information. You can self-host authorizer instances and connect to any database. Currently supports [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [SQLite](https://www.sqlite.org/index.html), [SQLServer](https://www.microsoft.com/en-us/sql-server/), [MongoDB](https://mongodb.com/), [ArangoDB](https://www.arangodb.com/).
+[**Authorizer**](https://authorizer.dev/) is an open-source authentication and authorization solution for your applications. Bring your database and have complete control over the user information. You can self-host authorizer instances and connect to any database. Currently supports 11+ databases including [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [SQLite](https://www.sqlite.org/index.html), [SQLServer](https://www.microsoft.com/en-us/sql-server/), [YugaByte](https://www.yugabyte.com/),  [MariaDB](https://mariadb.org/), [PlanetScale](https://planetscale.com/), [CassandraDB](https://cassandra.apache.org/_/index.html), [ScyllaDB](https://www.scylladb.com/), [MongoDB](https://mongodb.com/), [ArangoDB](https://www.arangodb.com/).
 
 
 All the [features](https://github.com/authorizerdev/authorizer#we-offer-the-following-functionality) that you would expect from your user layer, out of the box. And, we keep adding more. Check our [roadmap](https://github.com/authorizerdev/authorizer#roadmap).
 
 ### 🔧 Try Authorizer
-[Deploy to Heroku](https://docs.authorizer.dev/deployment/heroku/) • [Deploy on Railway.app](https://docs.authorizer.dev/deployment/railway/) • [Deploy to Render](https://docs.authorizer.dev/deployment/render/) • [k8s](https://docs.authorizer.dev/deployment/kubernetes/) • [On your local](https://docs.authorizer.dev/deployment/binary/)
+[Deploy on Railway.app](https://docs.authorizer.dev/deployment/railway/) • [Deploy to Heroku](https://docs.authorizer.dev/deployment/heroku/) • [Deploy to Render](https://docs.authorizer.dev/deployment/render/) • [k8s](https://docs.authorizer.dev/deployment/kubernetes/) • [On your local](https://docs.authorizer.dev/deployment/binary/)
 
 ### 👩‍💻 Useful resource
 [Introduction](https://docs.authorizer.dev/) • [Video Introduction](https://www.youtube.com/watch?v=uQka5O2RwpU) • [GraphQL APIs](https://docs.authorizer.dev/core/graphql-api/) • [Javascript SDK](https://docs.authorizer.dev/authorizer-js/getting-started/) • [React SDK](https://docs.authorizer.dev/authorizer-react/getting-started/)
